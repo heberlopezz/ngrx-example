@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+a:-webkit-any-link,
+a:-webkit-any-link:active,
+a:focus {
+  cursor: pointer;
+  text-decoration: none;
+  outline: none;
+  color: inherit;
+}
