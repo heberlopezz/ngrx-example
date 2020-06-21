@@ -1,0 +1,8 @@
+ @import 'utils';
+
+.provide-header {
+  max-height: $header-height;
+  .provide-content {
+    justify-content: space-between;
+  }
+}
